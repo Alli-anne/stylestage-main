@@ -35,7 +35,7 @@
       padding-bottom: 100%;
       transform: translate(-50%, -50%);
       transition: 300ms transform ease-in;
-      background-image: radial-gradient(
+      /* background-image: radial-gradient(
         rgba(255, 0, 0, 0) 20%,
         #b3f8f1 20%,
         #b3f8f1 25%,
@@ -48,7 +48,7 @@
         #b3f8f1 45%,
         #b3f8f1 50%,
         rgba(255, 0, 0, 0) 50%
-      );
+      ); */
       opacity: 0.8;
       content: "";
       z-index: -1;
