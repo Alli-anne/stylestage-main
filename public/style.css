@@ -5,7 +5,7 @@
   --color-primary-alt: #A6C48A;
   --color-secondary: #678D58;
   --color-background: #FEF5E7;
-  --color-text: #9f675a;
+  --color-text: rgb(159.3909090909, 102.7545454545, 89.8090909091);
   --color-light: #fff;
   --color-anchor: #DD9787;
   --font-family: "Baloo 2", sans-serif;
@@ -528,7 +528,7 @@ nav ul li {
 }
 @media (min-width: 515px) and (max-width: 765px) {
   #styles .features li:nth-last-child(1):nth-child(odd),
-.features.patterned li:nth-last-child(1):nth-child(odd) {
+  .features.patterned li:nth-last-child(1):nth-child(odd) {
     grid-column: span 2;
   }
 }
